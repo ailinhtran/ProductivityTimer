@@ -1,2 +1,2 @@
-# productivitytimer
-ENEL 400 code on creating a productivity timer using an Arduino Uno microcontroller
+# Productivity Timer
+ENEL 400 code on creating a productivity timer using an Arduino Uno
